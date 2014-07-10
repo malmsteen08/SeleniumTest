@@ -1,0 +1,10 @@
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\SetCRMObjectTest.exe.config
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\SetCRMObjectTest.exe
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\SetCRMObjectTest.pdb
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\nunit.framework.dll
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\WebDriver.dll
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\nunit.framework.xml
+C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\WebDriver.xml
+C:\work\SetCRMObjectTest\SetCRMObjectTest\obj\Debug\SetCRMObjectTest.csprojResolveAssemblyReference.cache
+C:\work\SetCRMObjectTest\SetCRMObjectTest\obj\Debug\SetCRMObjectTest.exe
+C:\work\SetCRMObjectTest\SetCRMObjectTest\obj\Debug\SetCRMObjectTest.pdb

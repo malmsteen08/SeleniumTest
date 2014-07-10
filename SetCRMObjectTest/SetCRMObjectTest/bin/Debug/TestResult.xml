@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\SetCRMObjectTest.exe" total="11" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-10" time="10:17:29">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\GENEL\Downloads\NUnit-2.6.3\bin" machine-name="CANER_PROJE" user="GENEL" user-domain="CANER_PROJE" />
+  <culture-info current-culture="tr-TR" current-uiculture="tr-TR" />
+  <test-suite type="Assembly" name="C:\work\SetCRMObjectTest\SetCRMObjectTest\bin\Debug\SetCRMObjectTest.exe" executed="True" result="Success" success="True" time="985.652" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SetCRMObjectTest" executed="True" result="Success" success="True" time="985.651" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="ObjectTest+ObjectTests" executed="True" result="Success" success="True" time="985.650" asserts="0">
+            <results>
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_02_define_costum_object" executed="True" result="Success" success="True" time="38.075" asserts="0" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_03_CFW_firmaTest" executed="True" result="Success" success="True" time="192.108" asserts="0" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_04_CFW_ilgiliKisiTest" executed="True" result="Success" success="True" time="154.795" asserts="0" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_05_CFW_aktiviteTest" executed="True" result="Success" success="True" time="98.406" asserts="0" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_06_CFW_gorevTest" executed="True" result="Success" success="True" time="128.223" asserts="0" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_07_CFW_urunTest" executed="True" result="Success" success="True" time="179.765" asserts="0" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_08_insert_firmatest" executed="True" result="Success" success="True" time="39.077" asserts="1" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_09_insert_ilgilikisitest" executed="True" result="Success" success="True" time="46.177" asserts="1" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_10_insert_aktivitetest" executed="True" result="Success" success="True" time="30.735" asserts="1" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_11_insert_gorevTest" executed="True" result="Success" success="True" time="41.945" asserts="1" />
+              <test-case name="SetCRMObjectTest.ObjectTest+ObjectTests.step_12_insert_urunTest" executed="True" result="Success" success="True" time="36.259" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
