@@ -999,10 +999,10 @@ namespace SetCRMObjectTest
 
                 //Lookup -> Bölüm
                 EnsureFindElement("//span[@id='select2-chosen-5']");
-                EnsureFindElement("select2-chosen-5");
+                EnsureFindElement("//span[@id='select2-chosen-5']");
 
                 //SelectList -> Ünvan
-                EnsureFindElement("select2-chosen-2");
+                EnsureFindElement("//span[@id='select2-chosen-2']");
                 EnsureFindElement("//li[@class='select2-results-dept-0 select2-result select2-result-selectable select2-highlighted']");
                 
                 //SelectList -> Cinsiyet
@@ -1010,7 +1010,7 @@ namespace SetCRMObjectTest
                 EnsureFindElement("//li[@class='select2-results-dept-0 select2-result select2-result-selectable select2-highlighted']");
 
                 //SelectList -> Müşteri Temsilcisi
-                EnsureFindElement("select2-chosen-4");
+                EnsureFindElement("//span[@id='select2-chosen-4']");
                 EnsureFindElement("//li[@class='select2-results-dept-0 select2-result select2-result-selectable select2-highlighted']");
 
                 //SelectList -> Firma
