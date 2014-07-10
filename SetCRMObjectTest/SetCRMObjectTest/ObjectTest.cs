@@ -1225,9 +1225,8 @@ namespace SetCRMObjectTest
                 }
 
                 //Lookup -> ilgili Kişi
-                _browser.FindElement((By.Id("select2-chosen-4"))).Click();
-                Thread.Sleep(3000);
-                _browser.FindElement((By.Id("select2-chosen-4"))).Click();
+                EnsureFindElement("//span[@id='select2-chosen-4']");
+                EnsureFindElement("//span[@id='select2-chosen-4']");
 
                 //save and close browser
                 _browser.FindElement(By.Id("btn_save")).Click();
